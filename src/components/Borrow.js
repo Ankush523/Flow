@@ -53,7 +53,7 @@ const Borrow = () => {
                     </div>
                 </div>
 
-                <button className='rounded-xl border border-green3 mt-[30px] mx-[310px] p-[10px] font-poppins bg-green3 text-white1'>Confirm and Submit</button>
+                <button className='rounded-xl text-white1/60 font-poppins font-semibold text-md mt-[30px] mx-[310px] p-[10px] bg-green3/80 hover:bg-green3 hover:text-white1'>Confirm and Submit</button>
             </div>
         </div>
     </div>
