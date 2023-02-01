@@ -17,8 +17,8 @@ const Faucet = () => {
                         <div className='w-[30%] py-[12px] px-[10px] bg-green3/20 rounded-r-xl'>
                             <button className='font-poppins text-green3'>MAX</button>
                         </div>
-                    </div>
-                <button className='text-white1/60 font-poppins font-semibold text-sm w-[54%] py-[12px] px-[10px] bg-green3/80 hover:bg-green3 rounded-xl mt-[20px] mb-[50px]'>GET DAIX</button>
+                </div>
+                <button className='text-white1/60 font-poppins font-semibold text-sm w-[54%] py-[12px] px-[10px] bg-green3/80 hover:bg-green3 hover:text-white1 rounded-xl mt-[20px] mb-[50px]'>GET DAIX</button>
             </div>
         </div>
     </div>
