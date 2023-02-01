@@ -9,7 +9,7 @@ const Wrap = () => {
           <label className='mt-[30px] font-poppins text-sm pb-[10px] text-black1/30'>Enter amount</label>
                 <div className='flex flex-row rounded-xl h-[50px]'>   
                   <div className='border border-green3/50 '>
-                    <input className='bg-white1 my-[12px] px-[10px]' placeholder='0.0000000...'/>
+                    <input className='bg-white1 py-[12px] px-[10px]' placeholder='0.0000000...'/>
                   </div>
                 </div>
                 <div className='flex flex-row justify-between'>
