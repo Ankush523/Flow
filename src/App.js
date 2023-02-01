@@ -8,6 +8,7 @@ import Dashboard from './components/Dashboard';
 import Lend from './components/Lend';
 import Faucet from './components/Faucet';
 import Wrap from './components/Wrap';
+import Notifs from './components/Notifs';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
           <Route path='/lend' element={<Lend/>}/>
           <Route path='/faucet' element={<Faucet/>}/>
           <Route path='/wrap' element={<Wrap/>}/>
+          <Route path='/notifs' element={<Notifs/>}/>
         </Routes>
       </BrowserRouter>
     </div>
